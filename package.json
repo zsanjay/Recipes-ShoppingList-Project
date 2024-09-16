@@ -31,7 +31,7 @@
     "@nguniversal/express-engine": "^8.2.6",
     "@nguniversal/module-map-ngfactory-loader": "v8.2.6",
     "bootstrap": "^3.4.1",
-    "express": "^4.15.2",
+    "express": "^4.21.0",
     "firebase": ">= 5.5.7 <8",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
